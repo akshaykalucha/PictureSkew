@@ -28,6 +28,15 @@ _thread.start_new_thread(pir.run_pir, ())
 # BME680 (Output to Pin 9 and 10 (G16 and G17))
 bme = BME(('P9', 'P10'))
 
+ssl_private_key_filepath = 'rsa_private.pem'
+ssl_algorithm = 'RS256' # Either RS256 or ES256
+root_cert_filepath = 'roots.pem'
+project_id = 'analog-period-235204'
+gcp_location = 'us-central1'
+#gcp_location = 'us-central1'
+registry_id = 'my-registry'
+device_id = 'my-device'
+
 while True:
     # Get the movement count since last time (Currently once / hour)
     count_last_hour = pir.get_count_last_h()
@@ -54,15 +63,6 @@ while True:
     # Sleep for 60 minutes
     time.sleep(3600)
 
-
-ssl_private_key_filepath = 'rsa_private.pem'
-ssl_algorithm = 'RS256' # Either RS256 or ES256
-root_cert_filepath = 'roots.pem'
-project_id = 'analog-period-235204'
-gcp_location = 'us-central1'
-#gcp_location = 'us-central1'
-registry_id = 'my-registry'
-device_id = 'my-device'
 
 # end of user-variables
 
