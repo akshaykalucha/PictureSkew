@@ -52,5 +52,13 @@ Estimated time: 1Week
 
 ## Material
 
+### Hardware
+| Component                    | Task             | Price  | Link
+| -----------------------------| ---------------- |--------|---
+| Arduino, exp-board & antenna   | To power sensors and communicate with the sigfox backend          | ~₹375   | [here](https://www.electronicscomp.com/arduino-uno-r3-compatible-best-price-india)
+| Breadboard      | To help us connect our sensors to the lopy4 | ~₹65 | [here](https://www.roboelements.com/product/400-point-solderless-prototype-breadboard/)
+| BME680 Air Quality Sensor      | Monitor Air Conditions | ~₹1400 | [here](https://www.amazon.in/Robocraze-BME680-Temperature-Humidity-Pressure/dp/B07WT5H63R/ref=asc_df_B07WT5H63R/?tag=googleshopdes-21&linkCode=df0&hvadid=397074532463&hvpos=&hvnetw=g&hvrand=3579343116281868515&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061680&hvtargid=pla-837220458430&psc=1&ext_vrnc=hi)
+| HC-SR501 PIR Movement Detection      | To help us connect our sensors to the Arduino Uno | ~₹500 | [here](https://create.arduino.cc/projecthub/electropeak/pir-motion-sensor-how-to-use-pirs-w-arduino-raspberry-pi-18d7fa)
+| Resistor bundle with 1 Resistor 220 Ohms 1%      | To power our led when movement is detected (Mostly for debugging purposes, thus not really necessary) | ~₹450 | [here](https://www.amazon.in/Electronic-Components-Breadboard-transistor-components/dp/B08SR1M4CH/ref=asc_df_B08SR1M4CH/?tag=googleshopdes-21&linkCode=df0&hvadid=397081650884&hvpos=&hvnetw=g&hvrand=10282259566278470469&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061680&hvtargid=pla-1169061307883&psc=1&ext_vrnc=hi)
 
 
