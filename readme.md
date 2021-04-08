@@ -62,3 +62,29 @@ Estimated time: 1Week
 | Resistor bundle with 1 Resistor 220 Ohms 1%      | To power our led when movement is detected (Mostly for debugging purposes, thus not really necessary) | ~₹450 | [here](https://www.amazon.in/Electronic-Components-Breadboard-transistor-components/dp/B08SR1M4CH/ref=asc_df_B08SR1M4CH/?tag=googleshopdes-21&linkCode=df0&hvadid=397081650884&hvpos=&hvnetw=g&hvrand=10282259566278470469&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061680&hvtargid=pla-1169061307883&psc=1&ext_vrnc=hi)
 
 
+### Software
+| IoT Thing | Link   |
+| --------- | ----------- |
+| Sigfox-backend Account   | [Here](https://support.sigfox.com/docs/backend-user-account-creation)          |
+| ThingSpeaks account      | [Here](https://thingspeak.com/login/mwa-sso/check)  |
+| Google Cloud console      | [Here](https://console.cloud.google.com)  |
+| Google Cloud functions    | [Here](https://cloud.google.com/functions)  |
+| Google Cloud pubsub       | [Here](https://cloud.google.com/pubsub)  |
+| Google Cloud bigquery     | [Here](https://cloud.google.com/bigquery)  |
+
+
+
+## Computer setup
+
+- [X] ***Chosen IDE***
+    VSCode
+
+- [X] ***How the code is uploaded***
+    From VSCode with the PyMakr-plugin though a micro usb cable connected to the Arduino expantion board
+
+- [X] ***Steps that you needed to do for your computer. Installation of Node.js, extra drivers, etc.***
+1. Update device firmware, more about that [here](https://pypi.org/project/arduino-python3/).
+2. Create a project folder and open it with vscode.
+3. Upload some example code e.g. [RGB LED](https://pypi.org/project/arduino-python3/) to test connectivity
+
+
