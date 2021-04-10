@@ -20,7 +20,7 @@ person tracking, gesture control using human pose estimation, and depth
 estimation using monocular vision. The device will capture customer
 movement & regulate the surrounding environment of the store like lighting,
 air-conditioning & data will be further transferred to ThingSpeaks,
-Google cloud for real-time visualization. It is a project that aims towards smartifying department stores, by monitoring air conditions and customer behaviour, of course while respecting their integrity. The smart store device can be installed in multiple sections in the store and once installed, data about air conditions and customer movement activity will be transmitted to the sigfox network and further on to ubidots and google cloud for real-time visualisation.
+Google cloud for real-time visualization. It is a project that aims towards smartifying department stores, by monitoring air conditions and customer behaviour, of course while respecting their integrity. The smart store device can be installed in multiple sections in the store and once installed, data about air conditions and customer movement activity will be transmitted to the sigfox network and further on to ThingSpeaks and google cloud for real-time visualisation.
 Estimated time: 1Week
 
 ---
@@ -36,16 +36,16 @@ Estimated time: 1Week
   - [Platform](#platform)
     - [Sigfox backend](#sigfox-backend)
     - [Google Cloud](#google-cloud)
-    - [Ubidots](#ubidots)
+    - [ThingSpeaks](#ThingSpeaks)
   - [The Code](#the-code)
   - [Transmitting the data / connectivity](#transmitting-the-data--connectivity)
   - [Presenting the data](#presenting-the-data)
-    - [Ubidots](#ubidots-1)
+    - [ThingSpeaks](#ThingSpeaks-1)
     - [Google Cloud - Data Studio](#google-cloud---data-studio)
   - [Finalizing the design](#finalizing-the-design)
     - [Final thoughts](#final-thoughts)
     - [Data studio (Live data)](#data-studio-live-data)
-    - [Ubidots (Live data)](#ubidots-live-data)
+    - [ThingSpeaks (Live data)](#ThingSpeaks-live-data)
 
 ---
 
