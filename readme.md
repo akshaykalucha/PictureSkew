@@ -88,3 +88,13 @@ Estimated time: 1Week
 3. Upload some example code e.g. [RGB LED](https://pypi.org/project/arduino-python3/) to test connectivity
 
 
+## Putting everything together
+
+- [X] ***Circuit diagram (can be hand drawn)***
+
+![Circuit](https://hackster.imgix.net/uploads/attachments/998853/blob_Uu8Bh3XNUg.blob?auto=compress%2Cformat&w=900&h=675&fit=min)**
+
+![Circruit_2](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/07/BME280-Arduino_schematic.png?quality=100&strip=all&ssl=1)
+
+
+![Circruit_3](https://i.pinimg.com/originals/5d/cf/63/5dcf637d3bd5e1fc48c3c791313778ae.jpg)
