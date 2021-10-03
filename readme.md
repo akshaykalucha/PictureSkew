@@ -1,6 +1,6 @@
 
 # PictureSkew
-## A project initiative to smartify Indian general stores using Applied-IoT
+## A project initiative to smartify Indian general stores using Network Systems and Applied-IoT
 
 
 <p float="left">
